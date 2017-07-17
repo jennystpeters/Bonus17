@@ -1,0 +1,29 @@
+/*    @Override
+    public String toString() {
+        return super.toString() + "\t" + weaponType;
+    }*/
+
+/*    @Override
+    public void play() {
+        System.out.println("Name: " + getName() + "\t" + " Strength: " + getStrength() + "\t" + "Intelligence: " + getIntelligence() + "\t" + "Weapon Type: " + weaponType);
+    }*/
+
+
+
+    /*
+        @Override
+        public void play() {
+            System.out.println("Name: " + getName() + "\t" + "Strength: " + getStrength() + "\t" + "Intelligence: " + getIntelligence() + "\t" + "Magical Energy: " + magicalEnergy);
+        }*/
+
+
+
+        /*    @Override
+            public String toString() {
+                return super.toString() + "\t" + spellNumber;
+            }*/
+
+        /*    @Override
+            public void play() {
+                System.out.println("Name: " + getName() + "\t" + "Strength: " + getStrength() + "\t" + "Intelligence: " + getIntelligence() + "\t" + "Magical Energy: " + getMagicalEnergy() + "\t" + "Spell Number: " + spellNumber);
+            }*/
